@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Blossom Kids</title>
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Variety of kids clothing available</description>
+	<lastBuildDate>Mon, 17 Jun 2024 04:03:18 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6</generator>
+
+<image>
+	<url>/wp-content/uploads/2024/06/blossom-kids-high-resolution-log.png</url>
+	<title>Blossom Kids</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Girls Section:</title>
+		<link>/2024/06/17/girls-section/</link>
+					<comments>/2024/06/17/girls-section/#respond</comments>
+		
+		<dc:creator><![CDATA[nutan]]></dc:creator>
+		<pubDate>Mon, 17 Jun 2024 04:03:18 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=52</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="720" height="720" data-id="53" src="/wp-content/uploads/2024/06/3d53f2696e271a9183d70ab0c2ae30b5.jpg_720x720q80.jpg" alt="" class="wp-image-53"/></figure>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="500" height="500" data-id="54" src="/wp-content/uploads/2024/06/product-jpeg-500x500-1.webp" alt="" class="wp-image-54"/></figure>
+</figure>
+
+
+
+<div class="wp-block-buttons alignwide is-layout-flex wp-block-buttons-is-layout-flex">
+<div class="wp-block-button is-style-outline is-style-outline--9fffd8952ec306a459cdd0446d51102d"><a class="wp-block-button__link has-text-align-center wp-element-button">Casual Fits</a></div>
+
+
+
+<div class="wp-block-button is-style-outline is-style-outline--836d1dbcd7d6b5c940946bdacd06edf6"><a class="wp-block-button__link has-text-align-center wp-element-button">Traditional Fits</a></div>
+
+
+
+<div class="wp-block-button is-style-outline is-style-outline--1c732deca030e0b39b6d6360ee6c7d3b"><a class="wp-block-button__link has-text-align-center wp-element-button">Summer fits</a></div>
+
+
+
+<div class="wp-block-button is-style-outline is-style-outline--f06364aaf6f37abb37d210dcfa3d8cac"><a class="wp-block-button__link has-text-align-center wp-element-button">Winter fits</a></div>
+
+
+
+<div class="wp-block-button is-style-outline is-style-outline--4023d123fc115c9e5ef438d9f8d05707"><a class="wp-block-button__link has-text-align-center wp-element-button">Swim Wears</a></div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2024/06/17/girls-section/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">52</post-id>	</item>
+		<item>
+		<title>Hello world!</title>
+		<link>/2024/06/14/hello-world/</link>
+					<comments>/2024/06/14/hello-world/#comments</comments>
+		
+		<dc:creator><![CDATA[nutan]]></dc:creator>
+		<pubDate>Fri, 14 Jun 2024 03:19:04 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=1</guid>
+
+					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
+										<content:encoded><![CDATA[
+<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2024/06/14/hello-world/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1</post-id>	</item>
+	</channel>
+</rss>
